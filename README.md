@@ -1,4 +1,21 @@
 # Crypto Market Sentiment Analysis with NLP
+## Demo 
+#### Using Docker Image
+A Docker image for **amd64** and **ARM** platforms is available on **DockerHub**. You can pull and run the container on your machine using the following commands:
+```
+docker pull b3nett/crypto_sentiment_app:latest
+docker run -d -p 80:80 b3nett/crypto_sentiment_app
+```
+Then, open `http://localhost:80` in your browser. 
+
+#### Using FastAPI
+If you prefer not to use Docker, you can clone the repository and run the API with **Uvicorn**:
+```
+git clone https://github.com/andrii-zapukhlyi/crypto_market_sentiment.git
+cd crypto_market_sentiment/app
+uvicorn api:app --host 0.0.0.0 --port 80
+```
+Then, open `http://localhost:80` in your browser. 
 
 ## Objective
 The main objective of this project is to analyze cryptocurrency market sentiment using Natural Language Processing (NLP) techniques. By extracting insights from news articles, the project aims to enhance decision-making by providing traders and investors with sentiment-based insights to optimize their trading strategies.
