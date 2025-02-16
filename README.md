@@ -17,6 +17,9 @@ uvicorn api:app --host 0.0.0.0 --port 80
 ```
 Then, open `http://localhost:80` in your browser. 
 
+#### AWS EC2 
+Additionally, the model is deployed on an AWS EC2 instance, but it is currently turned off.
+
 ## Objective
 The main objective of this project is to analyze cryptocurrency market sentiment using Natural Language Processing (NLP) techniques. By extracting insights from news articles, the project aims to enhance decision-making by providing traders and investors with sentiment-based insights to optimize their trading strategies.
 
