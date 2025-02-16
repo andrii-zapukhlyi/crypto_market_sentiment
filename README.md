@@ -36,4 +36,4 @@ The best model (CNN) achieved:
 The LSTM and GRU models achieved slightly lower performance.
 
 ## Conclusion
-The project successfully analyzed cryptocurrency market sentiment using NLP, with deep learning models outperforming traditional approaches. The CNN model achieved the best results, with a ROC AUC score of 0.98 and an F1-score of 0.95. While some misclassifications occurred, the overall accuracy was high, demonstrating the model's effectiveness in providing sentiment-based insights for trading decisions.
+The project demonstrates how NLP techniques can be applied to analyze cryptocurrency market sentiment by processing and extracting insights from news articles. By leveraging both classic machine learning models and deep learning architectures for sentiment classification, the project provides sentiment-based insights that can support traders and investors in optimizing their decision-making strategies.
