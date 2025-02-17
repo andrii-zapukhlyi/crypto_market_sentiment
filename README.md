@@ -1,4 +1,22 @@
 # Crypto Market Sentiment Analysis with NLP
+## Technologies Used
+### Data Processing & Visualization  
+- Python: `numpy`, `pandas`, `matplotlib`  
+
+### Machine Learning / Deep Learning  
+- `scikit-learn` (traditional ML models)  
+- `Keras` (LSTM, GRU, CNN)  
+
+### Back-end API  
+- `FastAPI`, `uvicorn`  
+
+### Front-end  
+- HTML, CSS, JavaScript  
+
+### Containerization & Deployment  
+- `Docker` (containerization)  
+- `AWS EC2 + S3` (cloud deployment)  
+
 ## Demo 
 #### Using Docker Image
 A Docker image for **amd64** and **ARM** platforms is available on **DockerHub**. You can pull and run the container on your machine using the following commands:
