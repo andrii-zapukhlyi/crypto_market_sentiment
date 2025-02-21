@@ -2,10 +2,12 @@
 ## Technologies Used
 ### Data Processing & Visualization  
 - Python: `numpy`, `pandas`, `matplotlib`  
+- Data Version Control: `DVC`
 
 ### Machine Learning / Deep Learning  
 - `scikit-learn` (traditional ML models)  
 - `Keras` (LSTM, GRU, CNN)  
+- `PyTorch` (LSTM, GRU, CNN)
 
 ### Back-end API  
 - `FastAPI`, `uvicorn`  
