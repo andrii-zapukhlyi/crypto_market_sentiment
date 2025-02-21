@@ -1,3 +1,7 @@
 app/__pycache__/
 /.DS_Store
 /cryptonews.csv
+.dvc/
+.dvc/config.local
+.dvc/tmp/
+.dvc/cache/
