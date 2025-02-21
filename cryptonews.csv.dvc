@@ -1,0 +1,5 @@
+outs:
+- md5: 0674ed52e8a7d33dd325304fca76e848
+  size: 13219719
+  hash: md5
+  path: cryptonews.csv
