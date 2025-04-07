@@ -1,4 +1,4 @@
-# Crypto Market Sentiment Analysis with NLP
+# Enhancing Cryptocurrency Trading Strategies with Sentiment Analysis and NLP
 ## Technologies Used
 ### Data Processing & Visualization  
 - Python: `numpy`, `pandas`, `matplotlib`  
