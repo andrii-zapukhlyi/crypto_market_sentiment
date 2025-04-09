@@ -20,6 +20,8 @@
 - `AWS EC2 + S3` (cloud deployment)  
 
 ## Demo 
+<img src = "demo_screen.png">
+
 #### Using Docker Image
 A Docker image for **amd64** and **ARM** platforms is available on **DockerHub**. You can pull and run the container on your machine using the following commands:
 ```
